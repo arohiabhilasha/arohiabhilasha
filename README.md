@@ -12,23 +12,12 @@ My name is Abhilasha Arohi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arohiabhilasha&layout=compact&langs_count=6&theme=gotham)](https://github.com/arohiabhilasha/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arohiabhilasha&repo=FaceDetection)](https://github.com/arohiabhilasha/FaceDetection)
 
 
-<a href="https://github.com/arohiabhilasha/FaceDetection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arohiabhilasha&repo=FaceDetection"/>
-</a>
-
-<a href="https://github.com/arohiabhilasha/FaceDetection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arohiabhilasha&repo=FaceDetection"/>
-</a>
 
 
-![](https://img.shields.io/badge/<Python>-<Lang>-informational?style=flat&logo=<L>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 
-<h>Languages and Tools</h>
-<a href="https://img.shields.io/static/v1?label=<Lang>&message=<Python>&color=<blue>"></a>
+
 
 
 
