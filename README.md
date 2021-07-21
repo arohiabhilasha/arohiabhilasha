@@ -4,7 +4,7 @@ My name is Abhilasha Arohi
 
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with Machine learning
-- 📫 How to reach me: Gmail- arohiabhilasha@gmail.com , Linkedin- Abhilasha Arohi , Instagram- abhilashaarohi
+- 📫 How to reach me: Gmail- arohiabhilasha@gmail.com , [Linkedin- Abhilasha Arohi](https://www.linkedin.com/in/abhilashaarohi/) , [Instagram- abhilashaarohi](https://www.instagram.com/abhilashaarohi/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am anime-lover and philosophical at the same time
 
