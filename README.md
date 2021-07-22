@@ -5,8 +5,8 @@ About me:
 - 🌱 I’m currently working on backend web development<!--- 🤔 I’m looking for help with Machine learning-->
 - 📫 How to reach me: <br>
       Gmail- arohiabhilasha@gmail.com <br>
-      Linkedin- <a href="https://www.linkedin.com/in/abhilashaarohi/">Abhilasha Arohi</a> <br>
-      Instagram- <a href="https://www.instagram.com/abhilashaarohi/">abhilashaarohi</a>
+      [Linkedin- Abhilasha Arohi](https://www.linkedin.com/in/abhilashaarohi/)<br>
+      [Instagram- abhilashaarohi](https://www.instagram.com/abhilashaarohi/)
 - 😄 Pronouns: She/her
 - ⚡ Fun (strange!) fact: I am an introvert philosophical anime-lover
 
