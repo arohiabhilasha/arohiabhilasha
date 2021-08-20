@@ -2,7 +2,7 @@
 
 # Hello, folks! Arohi this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-<img align="right" width="40%" src="https://media3.giphy.com/media/88R16x6lz7iP6/giphy.gif?cid=ecf05e47p6f0ht6nttnah7ohfsv6i6m33tzxbl5o8xyl8wim&rid=giphy.gif&ct=g">
+<img align="right" width="30%" src="https://media3.giphy.com/media/88R16x6lz7iP6/giphy.gif?cid=ecf05e47p6f0ht6nttnah7ohfsv6i6m33tzxbl5o8xyl8wim&rid=giphy.gif&ct=g">
 
 # Hello, folks! Arohi this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
