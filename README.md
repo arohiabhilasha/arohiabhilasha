@@ -1,8 +1,8 @@
-<!--<img align="right" width="40%" src="https://media2.giphy.com/media/t5Ml3rCGNEddm/giphy.gif?cid=ecf05e475i8f7p8yqe8njnxolxtm66vhmlr7dquo4s7q1ovs&rid=giphy.gif&ct=g">
+<!--<img align="right" width="40%" src="https://media1.giphy.com/media/JtwISFbwSjfIk/giphy.gif?cid=ecf05e47v63co00vkq9iod33yjzetge5mk23rfedlkv5ajqs&rid=giphy.gif&ct=g">
 
 # Hello, folks! Arohi this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-<img align="right" width="30%" src="https://media3.giphy.com/media/88R16x6lz7iP6/giphy.gif?cid=ecf05e47p6f0ht6nttnah7ohfsv6i6m33tzxbl5o8xyl8wim&rid=giphy.gif&ct=g">
+<img align="right" width="40%" src="https://media1.giphy.com/media/JtwISFbwSjfIk/giphy.gif?cid=ecf05e47v63co00vkq9iod33yjzetge5mk23rfedlkv5ajqs&rid=giphy.gif&ct=g">
 
 # Hello, folks! Arohi this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
