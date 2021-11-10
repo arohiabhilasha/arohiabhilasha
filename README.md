@@ -5,7 +5,7 @@
 
 About me:
 
-- 🌱 I’m currently working on backend web development<!--- 🤔 I’m looking for help with Machine learning-->
+- 🌱 I’m currently working on web development<!--- 🤔 I’m looking for help with Machine learning-->
 - 📫 How to reach me: <br>
       [Gmail](mailto:arohiabhilasha@gmail.com) <br>
       [Linkedin](https://www.linkedin.com/in/abhilashaarohi/)<br>
